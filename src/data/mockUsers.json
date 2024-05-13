@@ -1,0 +1,77 @@
+[
+	{
+		"name": "John Doe",
+		"email": "john@example.com",
+		"password": "password123",
+		"photo": "profile_photo1.jpg",
+		"passwordConfirm": "password123",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "Jane Smith",
+		"email": "jane@example.com",
+		"password": "password456",
+		"passwordConfirm": "password456",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "Michael Johnson",
+		"email": "michael@example.com",
+		"password": "password789",
+		"photo": "profile_photo2.jpg",
+		"passwordConfirm": "password789",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "Emily Brown",
+		"email": "emily@example.com",
+		"password": "passwordabc",
+		"passwordConfirm": "passwordabc",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "David Wilson",
+		"email": "david@example.com",
+		"password": "passworddef",
+		"photo": "profile_photo3.jpg",
+		"passwordConfirm": "passworddef",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "Sarah Taylor",
+		"email": "sarah@example.com",
+		"password": "passwordghi",
+		"passwordConfirm": "passwordghi",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "Christopher Martinez",
+		"email": "christopher@example.com",
+		"password": "passwordjkl",
+		"photo": "profile_photo4.jpg",
+		"passwordConfirm": "passwordjkl",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "Amanda Garcia",
+		"email": "amanda@example.com",
+		"password": "passwordmno",
+		"passwordConfirm": "passwordmno",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "James Hernandez",
+		"email": "james@example.com",
+		"password": "passwordpqr",
+		"photo": "profile_photo5.jpg",
+		"passwordConfirm": "passwordpqr",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	},
+	{
+		"name": "Jessica Lewis",
+		"email": "jessica@example.com",
+		"password": "passwordstu",
+		"passwordConfirm": "passwordstu",
+		"createdAt": "2024-05-09T00:00:00.000Z"
+	}
+]
