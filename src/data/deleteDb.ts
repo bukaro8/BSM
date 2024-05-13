@@ -1,6 +1,7 @@
 import { MongoDatabase } from '.';
-import { TourModel } from './mongo/models';
+
 import { envs } from '../config/plugins/envs/envs.plugin';
+import { UserModel } from './mongo/models/user.model';
 
 (async () => {
 	await MongoDatabase({
@@ -12,7 +13,7 @@ import { envs } from '../config/plugins/envs/envs.plugin';
 //? Delete previous data
 const deleteData = async () => {
 	try {
-		await TourModel.deleteMany();
+		await UserModel.deleteMany();
 		console.log('Data Successfully Deleted!🙀');
 		process.exit();
 	} catch (error) {
